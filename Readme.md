@@ -10,7 +10,7 @@ This Repo consists of my progress while learning Opengl
 
 ### TIP
 
-Clang format generally can sometimes change the order of include files in your files , to avoid it use comments between them like
+Clang format can sometimes change the order of include files in your files , to avoid it use comments between them like
 
 ```cpp
 #include <glew/glew.h>
